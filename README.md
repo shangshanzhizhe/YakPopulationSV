@@ -10,4 +10,4 @@
 
  ## Citation:
 
- 
+Zhang et al. Structural Variants Selected during Yak Domestication Inferred from Long-Read Whole-Genome Sequencing, Molecular Biology and Evolution, 2021; https://doi.org/10.1093/molbev/msab134
